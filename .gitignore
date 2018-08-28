@@ -4,6 +4,6 @@ bin/
 /*.log
 
 src/*.class
-*.txt
+
 
 !README.txt
